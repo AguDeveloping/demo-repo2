@@ -1,0 +1,9 @@
+#exluir carpetas
+/config/
+/node_modules/
+
+# excluir familia de archivos
+ide-conf*
+
+# excluir extension de archivos
+.class
